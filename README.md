@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<h4 align="center">artwork by @o_ji_s_an_(x)</h4>
+>artwork by @o_ji_s_an_(x)
 </p>
 
 
