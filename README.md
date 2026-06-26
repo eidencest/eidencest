@@ -8,11 +8,9 @@
 
 
 <p align="center">
-<h3 align="center">artwork by @o_ji_s_an_(x)</h3>
+<h4 align="center">artwork by @o_ji_s_an_(x)</h4>
 </p>
 
-
-<h3 align="center">artwork by @o_ji_s_an_(x)</h3>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/b3fc7cbb36c5aad3642825a86456e34c/e0a159a8889ba4c8-43/s640x960/a0d1ec1920362ce79303d21bbd0a06282aa2b1b8.gif" width="500">
