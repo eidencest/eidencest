@@ -8,9 +8,7 @@
 
 
 <p align="center">
-
 <font size="4">artwork by @o_ji_s_an_(x)</font>
-
 </p>
 
 <p align="center">
