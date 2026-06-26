@@ -7,7 +7,3 @@
   <a href="https://vk.com/eidencest">vk</a> • 
   <a href="https://discord.com/users/jj3ya">discord</a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⭐-eidencest-ffffff?style=for-the-badge&labelColor=000000">
-</p>
