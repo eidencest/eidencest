@@ -3,20 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/eidencestК">
-    <img src="https://img.shields.io/badge/telegram-@eidencest-2C2C2C?style=for-the-badge&logo=telegram">
-  </a>
-  <a href="https://vk.com/eidencest">
-    <img src="https://img.shields.io/badge/vk-eidencest-4C75A3?style=for-the-badge&logo=vk&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eidencest&style=for-the-badge&color=4ec9b0&label=✦">
-</p>
-
----
-
-<p align="center">
   <sup>⋆ artwork by @o_ji_s_an_ (x) </sup>
 </p>
