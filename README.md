@@ -8,7 +8,7 @@
 
 
 <p align="center">
->artwork by @o_ji_s_an_(x)
+artwork by @o_ji_s_an_(x)
 </p>
 
 
