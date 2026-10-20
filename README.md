@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eidencest&style=for-the-badge&color=ff69b4&label=♡">
+  <img src="https://komarev.com/ghpvc/?username=eidencest&style=for-the-badge&color=ff69b4&label=шлюхи">
 </p>
